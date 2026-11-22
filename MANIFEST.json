@@ -1,0 +1,932 @@
+{
+  "schema": "matters-lifeboat/v1",
+  "exportedAt": "2026-11-22T14:37:43.478Z",
+  "source": {
+    "platform": "matters.town",
+    "endpoint": "https://server.matters.town/graphql",
+    "userName": "windsdirecti",
+    "displayName": "谁想工作"
+  },
+  "stats": {
+    "totalArticles": 42,
+    "activeArticles": 42,
+    "totalImages": 54,
+    "totalBytes": 11951747
+  },
+  "articles": [
+    {
+      "slug": "一次间歇性连接超时排查-从发票报错到tcp旧连接残留",
+      "title": "一次间歇性连接超时排查 从发票报错到TCP旧连接残留",
+      "shortHash": "voxgubzlll8x",
+      "dataHash": "bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu",
+      "mediaHash": "bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2026-11-22T08:12:01.840Z",
+      "tags": [
+        "Linux",
+        "TCP"
+      ],
+      "file": "posts/2026-11-22-voxgubzlll8x.md",
+      "sourceUrl": "https://matters.town/a/voxgubzlll8x",
+      "ipfsGateways": [
+        "https://bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu/",
+        "https://ipfs.io/ipfs/bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu/",
+        "https://bafybeicmjet5d2qc3sujznvwzg45tcci7shc7y32w45euwvfubwyl6cqdu.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "当学历不再稀缺-知识还能改变命运吗",
+      "title": "当学历不再稀缺，知识还能改变命运吗？",
+      "shortHash": "daqi4b32bzjq",
+      "dataHash": "bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u",
+      "mediaHash": "bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2026-06-06T09:43:17.091Z",
+      "tags": [],
+      "file": "posts/2026-06-06-daqi4b32bzjq.md",
+      "sourceUrl": "https://matters.town/a/daqi4b32bzjq",
+      "ipfsGateways": [
+        "https://bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u/",
+        "https://ipfs.io/ipfs/bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u/",
+        "https://bafybeic4xqedvijdn2qy2lltqk5js6lltxhpdjfklw7ve4jura4tg6g74u.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "openclash-链式代理-relay-proxy-设置",
+      "title": "openclash 链式代理（Relay Proxy）设置",
+      "shortHash": "b5x4881ghzr6",
+      "dataHash": "",
+      "mediaHash": "",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-12-07T09:35:08.769Z",
+      "tags": [],
+      "file": "posts/2025-12-07-b5x4881ghzr6.md",
+      "sourceUrl": "https://matters.town/a/b5x4881ghzr6",
+      "ipfsGateways": []
+    },
+    {
+      "slug": "那些不算真正-在做这件事-的事",
+      "title": "那些不算真正「在做这件事」的事",
+      "shortHash": "ouxam6njax8y",
+      "dataHash": "bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e",
+      "mediaHash": "bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-11-16T16:28:32.965Z",
+      "tags": [],
+      "file": "posts/2025-11-16-ouxam6njax8y.md",
+      "sourceUrl": "https://matters.town/a/ouxam6njax8y",
+      "ipfsGateways": [
+        "https://bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e/",
+        "https://ipfs.io/ipfs/bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e/",
+        "https://bafybeictu7g2zcus3felcclqijdymsvdx4v7cysufyujsislnmyjurp73e.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "讲立场有错吗",
+      "title": "讲立场有错吗",
+      "shortHash": "04kge5n5v0z5",
+      "dataHash": "bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti",
+      "mediaHash": "bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-10-03T06:19:15.819Z",
+      "tags": [],
+      "file": "posts/2025-10-03-04kge5n5v0z5.md",
+      "sourceUrl": "https://matters.town/a/04kge5n5v0z5",
+      "ipfsGateways": [
+        "https://bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti/",
+        "https://ipfs.io/ipfs/bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti/",
+        "https://bafybeieyptxnhnvtlzzol45ciod5vexmq7dmx4by3rf6hlmqbj4ahaa6ti.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "ai-杠杆悖论",
+      "title": "AI 杠杆悖论",
+      "shortHash": "a5ctyrg8p99u",
+      "dataHash": "bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou",
+      "mediaHash": "bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-09-10T15:23:25.260Z",
+      "tags": [],
+      "file": "posts/2025-09-10-a5ctyrg8p99u.md",
+      "sourceUrl": "https://matters.town/a/a5ctyrg8p99u",
+      "ipfsGateways": [
+        "https://bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou/",
+        "https://ipfs.io/ipfs/bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou/",
+        "https://bafybeifkgcs4om5o4tghzb3or7wg7rne5iwzxyvtrh4bchrtwuic7qk5ou.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "bip需求-费用申请单自定义字段根据供应商参照银行账户",
+      "title": "bip需求：费用申请单自定义字段根据供应商参照银行账户",
+      "shortHash": "b076rqvjafzz",
+      "dataHash": "bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi",
+      "mediaHash": "bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-07-13T15:05:39.628Z",
+      "tags": [
+        "用友bip",
+        "JavaScript"
+      ],
+      "file": "posts/2025-07-13-b076rqvjafzz.md",
+      "sourceUrl": "https://matters.town/a/b076rqvjafzz",
+      "ipfsGateways": [
+        "https://bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi/",
+        "https://ipfs.io/ipfs/bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi/",
+        "https://bafybeiaom3mhwimdnkacqcl6gubhzpn2z3ezjc3geypcyq4p4vsbljelvi.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "如何成为某件事的专家",
+      "title": "如何成为某件事的专家：",
+      "shortHash": "ydleglruvdfa",
+      "dataHash": "bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm",
+      "mediaHash": "bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-07-07T14:17:45.405Z",
+      "tags": [],
+      "file": "posts/2025-07-07-ydleglruvdfa.md",
+      "sourceUrl": "https://matters.town/a/ydleglruvdfa",
+      "ipfsGateways": [
+        "https://bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm/",
+        "https://ipfs.io/ipfs/bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm/",
+        "https://bafybeien4yhokqzjdkywdbxo3dd5mi3hioe4lo2lgdq3d3jgq3ytc5cucm.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "视频资源路径探测过程记录",
+      "title": "视频资源路径探测过程记录",
+      "shortHash": "1bjjy5g5p1w9",
+      "dataHash": "bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq",
+      "mediaHash": "bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-07-02T02:38:12.215Z",
+      "tags": [],
+      "file": "posts/2025-07-02-1bjjy5g5p1w9.md",
+      "sourceUrl": "https://matters.town/a/1bjjy5g5p1w9",
+      "ipfsGateways": [
+        "https://bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq/",
+        "https://ipfs.io/ipfs/bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq/",
+        "https://bafybeifq46vffz5wfsqo2znnx3wiq7skjt3brabfa23lqcuglbzbkodryq.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "别以为自己是个能干的救火队员-就真被重视了",
+      "title": "别以为自己是个能干的救火队员，就真被重视了",
+      "shortHash": "ptp43oel0ix7",
+      "dataHash": "bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi",
+      "mediaHash": "bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-06-03T22:43:01.286Z",
+      "tags": [],
+      "file": "posts/2025-06-03-ptp43oel0ix7.md",
+      "sourceUrl": "https://matters.town/a/ptp43oel0ix7",
+      "ipfsGateways": [
+        "https://bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi/",
+        "https://ipfs.io/ipfs/bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi/",
+        "https://bafybeigiregxvrlhupxwgx5qe63h63gnadpukwuxuwc6tzm4z4a42ulszi.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "pls-ql中视图操作手册",
+      "title": "PLSQl中视图操作手册",
+      "shortHash": "oardbxn7pvh0",
+      "dataHash": "bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm",
+      "mediaHash": "bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-04-20T15:12:33.167Z",
+      "tags": [],
+      "file": "posts/2025-04-20-oardbxn7pvh0.md",
+      "sourceUrl": "https://matters.town/a/oardbxn7pvh0",
+      "ipfsGateways": [
+        "https://bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm/",
+        "https://ipfs.io/ipfs/bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm/",
+        "https://bafybeiggng3mewj32iu5o4qayolavvb46bo6rt5ry53xibw7eibmkzj2xm.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "linux-定时任务优化集群日志获取流程",
+      "title": "Linux 定时任务优化集群日志获取流程",
+      "shortHash": "9vw2uzu8mhii",
+      "dataHash": "QmZQPG2FaYYv2U6pg3XzfbUs4H5AVcm2xqDmhoDPtZe8qa",
+      "mediaHash": "bafybeifemvuq3bjaitikd4ultrn2rbqelgv5kbd7uarqtvoscrlqn3gveu",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-02-20T02:19:36.031Z",
+      "tags": [
+        "ERP"
+      ],
+      "file": "posts/2025-02-20-9vw2uzu8mhii.md",
+      "sourceUrl": "https://matters.town/a/9vw2uzu8mhii",
+      "ipfsGateways": [
+        "https://QmZQPG2FaYYv2U6pg3XzfbUs4H5AVcm2xqDmhoDPtZe8qa.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmZQPG2FaYYv2U6pg3XzfbUs4H5AVcm2xqDmhoDPtZe8qa/",
+        "https://ipfs.io/ipfs/QmZQPG2FaYYv2U6pg3XzfbUs4H5AVcm2xqDmhoDPtZe8qa/",
+        "https://QmZQPG2FaYYv2U6pg3XzfbUs4H5AVcm2xqDmhoDPtZe8qa.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "严格咨询公司的高管们-日常都怎么用ai的",
+      "title": "严格咨询公司的高管们，日常都怎么用AI的？",
+      "shortHash": "z77rzx214q6d",
+      "dataHash": "QmPEPQvV3XQqcrEKY3dDB4XjdUrd2ZVscjfWqsiQvUBCQj",
+      "mediaHash": "bafybeianidubd3skqym3g4wkfuso4rdplj4ngaqpwtedl3b2jhbod2kkrq",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2025-02-11T13:17:15.818Z",
+      "tags": [],
+      "file": "posts/2025-02-11-z77rzx214q6d.md",
+      "sourceUrl": "https://matters.town/a/z77rzx214q6d",
+      "ipfsGateways": [
+        "https://QmPEPQvV3XQqcrEKY3dDB4XjdUrd2ZVscjfWqsiQvUBCQj.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmPEPQvV3XQqcrEKY3dDB4XjdUrd2ZVscjfWqsiQvUBCQj/",
+        "https://ipfs.io/ipfs/QmPEPQvV3XQqcrEKY3dDB4XjdUrd2ZVscjfWqsiQvUBCQj/",
+        "https://QmPEPQvV3XQqcrEKY3dDB4XjdUrd2ZVscjfWqsiQvUBCQj.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "编程助手会接管软件开发吗-译",
+      "title": "编程助手会接管软件开发吗？【译】",
+      "shortHash": "q9iei218w3er",
+      "dataHash": "QmVXWR842K88mPeHNwPoFj2ywqm9DKDYj8KDAwgEhSRQDG",
+      "mediaHash": "bafybeidkzhjbmgdwisrd34whcu57w5o7pcn4oxiewq5ofx4zfvrvlnqhcm",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-12-15T10:42:43.309Z",
+      "tags": [],
+      "file": "posts/2024-12-15-q9iei218w3er.md",
+      "sourceUrl": "https://matters.town/a/q9iei218w3er",
+      "ipfsGateways": [
+        "https://QmVXWR842K88mPeHNwPoFj2ywqm9DKDYj8KDAwgEhSRQDG.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmVXWR842K88mPeHNwPoFj2ywqm9DKDYj8KDAwgEhSRQDG/",
+        "https://ipfs.io/ipfs/QmVXWR842K88mPeHNwPoFj2ywqm9DKDYj8KDAwgEhSRQDG/",
+        "https://QmVXWR842K88mPeHNwPoFj2ywqm9DKDYj8KDAwgEhSRQDG.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "ai-辅助编程给软件工程带来的需求开发范式变化",
+      "title": "AI 辅助编程给软件工程带来的需求开发范式变化",
+      "shortHash": "k9luajscimtc",
+      "dataHash": "QmdPVyPAzdSzwgxncdxzSUVUVH1JcAicbcMTvjhXSvGvgP",
+      "mediaHash": "bafybeig7tivpkiogyo6evdud3kg6b5laewegrryerycrlwtfp3aw4dv6fa",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-12-02T14:47:35.093Z",
+      "tags": [
+        "AI"
+      ],
+      "file": "posts/2024-12-02-k9luajscimtc.md",
+      "sourceUrl": "https://matters.town/a/k9luajscimtc",
+      "ipfsGateways": [
+        "https://QmdPVyPAzdSzwgxncdxzSUVUVH1JcAicbcMTvjhXSvGvgP.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmdPVyPAzdSzwgxncdxzSUVUVH1JcAicbcMTvjhXSvGvgP/",
+        "https://ipfs.io/ipfs/QmdPVyPAzdSzwgxncdxzSUVUVH1JcAicbcMTvjhXSvGvgP/",
+        "https://QmdPVyPAzdSzwgxncdxzSUVUVH1JcAicbcMTvjhXSvGvgP.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "1-1-神奇的数",
+      "title": "1.1 神奇的数",
+      "shortHash": "0ixedpgtnfut",
+      "dataHash": "QmPAZsSh88BXNG9gYugQVYQqT94yV5VXqQ3DHYuzAa7MKq",
+      "mediaHash": "bafybeiamizuepmyu5yxehti5uodylzwrtrcll4wnt7dlid6psrj2fqco6q",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-10-31T09:00:48.965Z",
+      "tags": [
+        "开发"
+      ],
+      "file": "posts/2024-10-31-0ixedpgtnfut.md",
+      "sourceUrl": "https://matters.town/a/0ixedpgtnfut",
+      "ipfsGateways": [
+        "https://QmPAZsSh88BXNG9gYugQVYQqT94yV5VXqQ3DHYuzAa7MKq.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmPAZsSh88BXNG9gYugQVYQqT94yV5VXqQ3DHYuzAa7MKq/",
+        "https://ipfs.io/ipfs/QmPAZsSh88BXNG9gYugQVYQqT94yV5VXqQ3DHYuzAa7MKq/",
+        "https://QmPAZsSh88BXNG9gYugQVYQqT94yV5VXqQ3DHYuzAa7MKq.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "02-章节及内容安排-大道至简-给所有人看的编程书",
+      "title": "02:章节及内容安排--大道至简，给所有人看的编程书",
+      "shortHash": "sbgpv99df03j",
+      "dataHash": "Qme9zwycLV5mwmYNv323vh72AxURvWqcNBjayJNS2sPj3F",
+      "mediaHash": "bafybeihlab6iilmywfd56hhnddyb25cg7xalqrs3w2l2loi3erbk3bxyli",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-10-29T12:29:57.338Z",
+      "tags": [
+        "开发"
+      ],
+      "file": "posts/2024-10-29-sbgpv99df03j.md",
+      "sourceUrl": "https://matters.town/a/sbgpv99df03j",
+      "ipfsGateways": [
+        "https://Qme9zwycLV5mwmYNv323vh72AxURvWqcNBjayJNS2sPj3F.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/Qme9zwycLV5mwmYNv323vh72AxURvWqcNBjayJNS2sPj3F/",
+        "https://ipfs.io/ipfs/Qme9zwycLV5mwmYNv323vh72AxURvWqcNBjayJNS2sPj3F/",
+        "https://Qme9zwycLV5mwmYNv323vh72AxURvWqcNBjayJNS2sPj3F.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "影像数据迁移验证方案-ai版",
+      "title": "影像数据迁移验证方案-ai版",
+      "shortHash": "378wkxtelhyt",
+      "dataHash": "QmcoZ4uhqssxJUiVbbxTyh2YZZpD3wRC5dhYvYhztj7g5n",
+      "mediaHash": "bafybeigw47vy43eidcpmv5zsvexdt4o25eyvbubzdiqawz5b4s3r3ktxie",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-10-26T15:06:26.859Z",
+      "tags": [],
+      "file": "posts/2024-10-26-378wkxtelhyt.md",
+      "sourceUrl": "https://matters.town/a/378wkxtelhyt",
+      "ipfsGateways": [
+        "https://QmcoZ4uhqssxJUiVbbxTyh2YZZpD3wRC5dhYvYhztj7g5n.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmcoZ4uhqssxJUiVbbxTyh2YZZpD3wRC5dhYvYhztj7g5n/",
+        "https://ipfs.io/ipfs/QmcoZ4uhqssxJUiVbbxTyh2YZZpD3wRC5dhYvYhztj7g5n/",
+        "https://QmcoZ4uhqssxJUiVbbxTyh2YZZpD3wRC5dhYvYhztj7g5n.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "01-开篇-大道至简-给所有人看的编程书",
+      "title": "01:开篇--大道至简，给所有人看的编程书",
+      "shortHash": "4c17q98357vv",
+      "dataHash": "QmTaiFjBXpvvMCHFrvyDs3d9KtMhGdpohXcdWdpny9rizL",
+      "mediaHash": "bafybeicn4sjrijryoad3wnghbh6z5k2xydpfgb6ln4actldtykxx3wyrve",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-10-26T14:52:34.827Z",
+      "tags": [
+        "开发"
+      ],
+      "file": "posts/2024-10-26-4c17q98357vv.md",
+      "sourceUrl": "https://matters.town/a/4c17q98357vv",
+      "ipfsGateways": [
+        "https://QmTaiFjBXpvvMCHFrvyDs3d9KtMhGdpohXcdWdpny9rizL.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmTaiFjBXpvvMCHFrvyDs3d9KtMhGdpohXcdWdpny9rizL/",
+        "https://ipfs.io/ipfs/QmTaiFjBXpvvMCHFrvyDs3d9KtMhGdpohXcdWdpny9rizL/",
+        "https://QmTaiFjBXpvvMCHFrvyDs3d9KtMhGdpohXcdWdpny9rizL.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "sql函数学习",
+      "title": "sql函数学习",
+      "shortHash": "s8vvrklk9xol",
+      "dataHash": "QmbZTm7jWq9WZ69YEbRvUYXYuiJ4UUrSa4FSehGq4uMfuA",
+      "mediaHash": "bafybeigeoam7yrqcrez6izjcfxosujjf7cthqaqvp7wtnhven3qkafaj5e",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-27T13:41:48.074Z",
+      "tags": [
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-08-27-s8vvrklk9xol.md",
+      "sourceUrl": "https://matters.town/a/s8vvrklk9xol",
+      "ipfsGateways": [
+        "https://QmbZTm7jWq9WZ69YEbRvUYXYuiJ4UUrSa4FSehGq4uMfuA.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmbZTm7jWq9WZ69YEbRvUYXYuiJ4UUrSa4FSehGq4uMfuA/",
+        "https://ipfs.io/ipfs/QmbZTm7jWq9WZ69YEbRvUYXYuiJ4UUrSa4FSehGq4uMfuA/",
+        "https://QmbZTm7jWq9WZ69YEbRvUYXYuiJ4UUrSa4FSehGq4uMfuA.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "让别人满意有什么不对么",
+      "title": "让别人满意有什么不对么",
+      "shortHash": "cg2184k5wn2d",
+      "dataHash": "QmaaUm7baP6Uy9ifiCKExqAAnUkXqP92GhmmNqvfp9beTW",
+      "mediaHash": "bafybeifv24qejdcgssnxei3dam6udabjq2t73xamevu7fczpftpj2pwcmu",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-19T00:57:07.313Z",
+      "tags": [],
+      "file": "posts/2024-08-19-cg2184k5wn2d.md",
+      "sourceUrl": "https://matters.town/a/cg2184k5wn2d",
+      "ipfsGateways": [
+        "https://QmaaUm7baP6Uy9ifiCKExqAAnUkXqP92GhmmNqvfp9beTW.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmaaUm7baP6Uy9ifiCKExqAAnUkXqP92GhmmNqvfp9beTW/",
+        "https://ipfs.io/ipfs/QmaaUm7baP6Uy9ifiCKExqAAnUkXqP92GhmmNqvfp9beTW/",
+        "https://QmaaUm7baP6Uy9ifiCKExqAAnUkXqP92GhmmNqvfp9beTW.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-6-财务共享运营管理",
+      "title": "Part 6：财务共享运营管理",
+      "shortHash": "4haxu39nacl9",
+      "dataHash": "QmTKWcPPVpS5tmaggWH8eDA5dhvuU9wCzc41kCEvWAWVdb",
+      "mediaHash": "bafybeicj76zfuc3jnpbreouy7stcvojadrikwt3hpi5vuflltsot7fp4gi",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-15T15:06:49.282Z",
+      "tags": [
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-08-15-4haxu39nacl9.md",
+      "sourceUrl": "https://matters.town/a/4haxu39nacl9",
+      "ipfsGateways": [
+        "https://QmTKWcPPVpS5tmaggWH8eDA5dhvuU9wCzc41kCEvWAWVdb.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmTKWcPPVpS5tmaggWH8eDA5dhvuU9wCzc41kCEvWAWVdb/",
+        "https://ipfs.io/ipfs/QmTKWcPPVpS5tmaggWH8eDA5dhvuU9wCzc41kCEvWAWVdb/",
+        "https://QmTKWcPPVpS5tmaggWH8eDA5dhvuU9wCzc41kCEvWAWVdb.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "erp项目中的初次代码修改之旅",
+      "title": "ERP项目中的初次代码修改之旅",
+      "shortHash": "8dmtrjvuzwdl",
+      "dataHash": "Qmc7eyMjMnT9M23pcCJ2URASnEG4UxaWdgvzjXiw5LukPi",
+      "mediaHash": "bafybeigmv5osbih6mvjrhgzcqosjnoc3fivntqugnklr5xalsoe5g7txae",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-13T14:23:57.169Z",
+      "tags": [
+        "产品分析",
+        "AI",
+        "ERP"
+      ],
+      "file": "posts/2024-08-13-8dmtrjvuzwdl.md",
+      "sourceUrl": "https://matters.town/a/8dmtrjvuzwdl",
+      "ipfsGateways": [
+        "https://Qmc7eyMjMnT9M23pcCJ2URASnEG4UxaWdgvzjXiw5LukPi.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/Qmc7eyMjMnT9M23pcCJ2URASnEG4UxaWdgvzjXiw5LukPi/",
+        "https://ipfs.io/ipfs/Qmc7eyMjMnT9M23pcCJ2URASnEG4UxaWdgvzjXiw5LukPi/",
+        "https://Qmc7eyMjMnT9M23pcCJ2URASnEG4UxaWdgvzjXiw5LukPi.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "cpa会计-小白入门-会计基础",
+      "title": "CPA会计-小白入门-会计基础",
+      "shortHash": "3mk2lwr2azw3",
+      "dataHash": "QmT8M7G9yqDTZdFN5W668QVF1gA5mWGd1xDzmtNnrMFRvN",
+      "mediaHash": "bafybeicheoiezqquuxafqkjkzzn7lrcz7vn3d7wzhwtcrvxmetyjj2gti4",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-12T11:53:36.283Z",
+      "tags": [],
+      "file": "posts/2024-08-12-3mk2lwr2azw3.md",
+      "sourceUrl": "https://matters.town/a/3mk2lwr2azw3",
+      "ipfsGateways": [
+        "https://QmT8M7G9yqDTZdFN5W668QVF1gA5mWGd1xDzmtNnrMFRvN.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmT8M7G9yqDTZdFN5W668QVF1gA5mWGd1xDzmtNnrMFRvN/",
+        "https://ipfs.io/ipfs/QmT8M7G9yqDTZdFN5W668QVF1gA5mWGd1xDzmtNnrMFRvN/",
+        "https://QmT8M7G9yqDTZdFN5W668QVF1gA5mWGd1xDzmtNnrMFRvN.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-5-资金管理及税务管理",
+      "title": "PART 5：资金管理及税务管理",
+      "shortHash": "94l5qzih9oe7",
+      "dataHash": "QmNV9RnjJVfLLzrPfaAe44jHkZcKEXeHNibbBE5mtX4VZo",
+      "mediaHash": "bafybeiacfupgptvyr4qv4vfjbvumcg62neq7fegwpqxxa4tc7hxrvtossy",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-12T10:54:45.871Z",
+      "tags": [
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-08-12-94l5qzih9oe7.md",
+      "sourceUrl": "https://matters.town/a/94l5qzih9oe7",
+      "ipfsGateways": [
+        "https://QmNV9RnjJVfLLzrPfaAe44jHkZcKEXeHNibbBE5mtX4VZo.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmNV9RnjJVfLLzrPfaAe44jHkZcKEXeHNibbBE5mtX4VZo/",
+        "https://ipfs.io/ipfs/QmNV9RnjJVfLLzrPfaAe44jHkZcKEXeHNibbBE5mtX4VZo/",
+        "https://QmNV9RnjJVfLLzrPfaAe44jHkZcKEXeHNibbBE5mtX4VZo.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "使用adobe-acrobat打开pdf证明文件电子签章处现实红色叉号",
+      "title": "使用Adobe Acrobat打开pdf证明文件电子签章处现实红色叉号",
+      "shortHash": "p2611vspbb8u",
+      "dataHash": "QmaHJ9t5v2K4tnuDoGZN1SX4qUzMda7NNsVUQVRqKgXtBK",
+      "mediaHash": "bafybeifrobbcmdbiausktvfxpqphb63hnigx3ptp6bzmlcqwjqjoqahz4i",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-01T07:15:20.469Z",
+      "tags": [
+        "為什麼"
+      ],
+      "file": "posts/2024-08-01-p2611vspbb8u.md",
+      "sourceUrl": "https://matters.town/a/p2611vspbb8u",
+      "ipfsGateways": [
+        "https://QmaHJ9t5v2K4tnuDoGZN1SX4qUzMda7NNsVUQVRqKgXtBK.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmaHJ9t5v2K4tnuDoGZN1SX4qUzMda7NNsVUQVRqKgXtBK/",
+        "https://ipfs.io/ipfs/QmaHJ9t5v2K4tnuDoGZN1SX4qUzMda7NNsVUQVRqKgXtBK/",
+        "https://QmaHJ9t5v2K4tnuDoGZN1SX4qUzMda7NNsVUQVRqKgXtBK.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-4-系统建设及组织人力",
+      "title": "Part 4：系统建设及组织人力",
+      "shortHash": "so2e33msjzwq",
+      "dataHash": "QmUT5FsK2RLwGFCKbSoAJCi6UBmL7to2Mr42bRexm3RJuy",
+      "mediaHash": "bafybeic2znomya7vcniss6ukayvskzmjictr52i65n3lbtdolimxyfifaq",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-08-01T02:10:49.160Z",
+      "tags": [
+        "咨询",
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-08-01-so2e33msjzwq.md",
+      "sourceUrl": "https://matters.town/a/so2e33msjzwq",
+      "ipfsGateways": [
+        "https://QmUT5FsK2RLwGFCKbSoAJCi6UBmL7to2Mr42bRexm3RJuy.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmUT5FsK2RLwGFCKbSoAJCi6UBmL7to2Mr42bRexm3RJuy/",
+        "https://ipfs.io/ipfs/QmUT5FsK2RLwGFCKbSoAJCi6UBmL7to2Mr42bRexm3RJuy/",
+        "https://QmUT5FsK2RLwGFCKbSoAJCi6UBmL7to2Mr42bRexm3RJuy.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "第五集-是谁在制造-怪物",
+      "title": "第五集 是谁在制造「怪物」？",
+      "shortHash": "h2si6r6w6ps1",
+      "dataHash": "QmeZ6u9MSLhWsAcrdXGQyUKvh3FQJ55pV4tMWfUDFtFFz8",
+      "mediaHash": "bafybeihq5ojpe6rlffpkaenp6ldtqteqdwc7eyln3irtla6b63nxfxmsre",
+      "iscnId": "iscn://likecoin-chain/EdN5RpvesnPyR9E-8-AXddqiwd9X-ihOtPLgwE4RiN8/1",
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-28T15:08:26.868Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-28-h2si6r6w6ps1.md",
+      "sourceUrl": "https://matters.town/a/h2si6r6w6ps1",
+      "ipfsGateways": [
+        "https://QmeZ6u9MSLhWsAcrdXGQyUKvh3FQJ55pV4tMWfUDFtFFz8.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmeZ6u9MSLhWsAcrdXGQyUKvh3FQJ55pV4tMWfUDFtFFz8/",
+        "https://ipfs.io/ipfs/QmeZ6u9MSLhWsAcrdXGQyUKvh3FQJ55pV4tMWfUDFtFFz8/",
+        "https://QmeZ6u9MSLhWsAcrdXGQyUKvh3FQJ55pV4tMWfUDFtFFz8.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-3-业务范围及制度流",
+      "title": "Part 3：业务范围及制度流",
+      "shortHash": "wud6aja53qou",
+      "dataHash": "QmWzKMyCww6MFGB1RvzhRbdT89L4z7i1ptkR3cJoTxQkZs",
+      "mediaHash": "bafybeieaqoyle6s6iaq67evtpo62s3s7vilryp3jwwakjwew3g3z2zfhyy",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-28T13:24:22.928Z",
+      "tags": [
+        "咨询",
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-07-28-wud6aja53qou.md",
+      "sourceUrl": "https://matters.town/a/wud6aja53qou",
+      "ipfsGateways": [
+        "https://QmWzKMyCww6MFGB1RvzhRbdT89L4z7i1ptkR3cJoTxQkZs.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmWzKMyCww6MFGB1RvzhRbdT89L4z7i1ptkR3cJoTxQkZs/",
+        "https://ipfs.io/ipfs/QmWzKMyCww6MFGB1RvzhRbdT89L4z7i1ptkR3cJoTxQkZs/",
+        "https://QmWzKMyCww6MFGB1RvzhRbdT89L4z7i1ptkR3cJoTxQkZs.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "第四集-药的生意",
+      "title": "第四集 药的生意",
+      "shortHash": "tqcze30t8m0t",
+      "dataHash": "QmNmNKU21faY7MPxC4TgfxfzZdAswXp91mctySn3UbRWjj",
+      "mediaHash": "bafybeiagkt6nhkvwrbmj76nmosxymlxs24sts6yz7lx2tyqkl5ejzknqqi",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-26T04:35:01.746Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-26-tqcze30t8m0t.md",
+      "sourceUrl": "https://matters.town/a/tqcze30t8m0t",
+      "ipfsGateways": [
+        "https://QmNmNKU21faY7MPxC4TgfxfzZdAswXp91mctySn3UbRWjj.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmNmNKU21faY7MPxC4TgfxfzZdAswXp91mctySn3UbRWjj/",
+        "https://ipfs.io/ipfs/QmNmNKU21faY7MPxC4TgfxfzZdAswXp91mctySn3UbRWjj/",
+        "https://QmNmNKU21faY7MPxC4TgfxfzZdAswXp91mctySn3UbRWjj.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "第三集-一千零一个用药的理由",
+      "title": "第三集 一千零一个用药的理由",
+      "shortHash": "fl6tectsl1yv",
+      "dataHash": "QmWAr4P9HNjX3iSifHKxkkjXE9WbAvpQwFD4xxmNK7VSnq",
+      "mediaHash": "bafybeidulkctjt7pafcjwskkyd6tagthywof4ohnxrvjwlzisk5gfu3ney",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-24T15:04:36.949Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-24-fl6tectsl1yv.md",
+      "sourceUrl": "https://matters.town/a/fl6tectsl1yv",
+      "ipfsGateways": [
+        "https://QmWAr4P9HNjX3iSifHKxkkjXE9WbAvpQwFD4xxmNK7VSnq.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmWAr4P9HNjX3iSifHKxkkjXE9WbAvpQwFD4xxmNK7VSnq/",
+        "https://ipfs.io/ipfs/QmWAr4P9HNjX3iSifHKxkkjXE9WbAvpQwFD4xxmNK7VSnq/",
+        "https://QmWAr4P9HNjX3iSifHKxkkjXE9WbAvpQwFD4xxmNK7VSnq.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-2-财务共享建设及定位",
+      "title": "PART 2：财务共享建设及定位",
+      "shortHash": "l9clly4rtpth",
+      "dataHash": "QmPcDkMauM2Wq96oeX2fz9DQQWtMbKnEUoVAE6JVfDQdbN",
+      "mediaHash": "bafybeias3dazdcuvberotckqhpjsab2fa4aio2pmhtulwaaubud5tphjoe",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-24T14:22:37.063Z",
+      "tags": [
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-07-24-l9clly4rtpth.md",
+      "sourceUrl": "https://matters.town/a/l9clly4rtpth",
+      "ipfsGateways": [
+        "https://QmPcDkMauM2Wq96oeX2fz9DQQWtMbKnEUoVAE6JVfDQdbN.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmPcDkMauM2Wq96oeX2fz9DQQWtMbKnEUoVAE6JVfDQdbN/",
+        "https://ipfs.io/ipfs/QmPcDkMauM2Wq96oeX2fz9DQQWtMbKnEUoVAE6JVfDQdbN/",
+        "https://QmPcDkMauM2Wq96oeX2fz9DQQWtMbKnEUoVAE6JVfDQdbN.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "项目过程-触发器和存储过程",
+      "title": "项目过程--触发器和存储过程",
+      "shortHash": "b0al2u990jl9",
+      "dataHash": "QmYzFQi8oJk5ZCQHNB5S75pCTeA6DiTjFDwHW79LYxqhdz",
+      "mediaHash": "bafybeie6g2mdz6yc3h6b2mdudeox6h3vcjdzimoeqp55bc7u2h7mlgq5ce",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-24T06:18:24.792Z",
+      "tags": [
+        "财务共享",
+        "ERP",
+        "野路子"
+      ],
+      "file": "posts/2024-07-24-b0al2u990jl9.md",
+      "sourceUrl": "https://matters.town/a/b0al2u990jl9",
+      "ipfsGateways": [
+        "https://QmYzFQi8oJk5ZCQHNB5S75pCTeA6DiTjFDwHW79LYxqhdz.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmYzFQi8oJk5ZCQHNB5S75pCTeA6DiTjFDwHW79LYxqhdz/",
+        "https://ipfs.io/ipfs/QmYzFQi8oJk5ZCQHNB5S75pCTeA6DiTjFDwHW79LYxqhdz/",
+        "https://QmYzFQi8oJk5ZCQHNB5S75pCTeA6DiTjFDwHW79LYxqhdz.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "中国企服市场洞察-erp顾问还有可能卖到10000元一天吗",
+      "title": "中国企服市场洞察｜ERP顾问还有可能卖到10000元一天吗？",
+      "shortHash": "wubt51lpea5b",
+      "dataHash": "QmbcaZGCpAtgaKDgkNXyq5HuX3nZjizxs14KvTj7mA1a7X",
+      "mediaHash": "bafybeigfhsdrxnodkzefjlhdmcl4rsng2ja4hyxiiwb3jtgifnxnaxx2vy",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-22T15:28:53.054Z",
+      "tags": [
+        "ERP"
+      ],
+      "file": "posts/2024-07-22-wubt51lpea5b.md",
+      "sourceUrl": "https://matters.town/a/wubt51lpea5b",
+      "ipfsGateways": [
+        "https://QmbcaZGCpAtgaKDgkNXyq5HuX3nZjizxs14KvTj7mA1a7X.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmbcaZGCpAtgaKDgkNXyq5HuX3nZjizxs14KvTj7mA1a7X/",
+        "https://ipfs.io/ipfs/QmbcaZGCpAtgaKDgkNXyq5HuX3nZjizxs14KvTj7mA1a7X/",
+        "https://QmbcaZGCpAtgaKDgkNXyq5HuX3nZjizxs14KvTj7mA1a7X.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "第二集-万能药",
+      "title": "第二集 「万能药」",
+      "shortHash": "2bfl5a9pzkz2",
+      "dataHash": "QmNRwAQ4zRtdgXdofVytigkdsG4S1UJVgNamN9SnmXC7VV",
+      "mediaHash": "bafybeiablkbaglpqw27d3lemo27jmsombi7ikwxtjdk3gtj5ftufmu4geq",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-22T15:15:48.492Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-22-2bfl5a9pzkz2.md",
+      "sourceUrl": "https://matters.town/a/2bfl5a9pzkz2",
+      "ipfsGateways": [
+        "https://QmNRwAQ4zRtdgXdofVytigkdsG4S1UJVgNamN9SnmXC7VV.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmNRwAQ4zRtdgXdofVytigkdsG4S1UJVgNamN9SnmXC7VV/",
+        "https://ipfs.io/ipfs/QmNRwAQ4zRtdgXdofVytigkdsG4S1UJVgNamN9SnmXC7VV/",
+        "https://QmNRwAQ4zRtdgXdofVytigkdsG4S1UJVgNamN9SnmXC7VV.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "第一集-壮壮的意外",
+      "title": "第一集 壮壮的意外",
+      "shortHash": "a3zmj3g5zi1v",
+      "dataHash": "QmWxZix3q91198X8L8hjFnRcZazN8hLiyt3Lphzf6VdAzC",
+      "mediaHash": "bafybeieacdchqobvaztk7wxjq5q2bfit4spqgx432zdxee23n7llj7sixe",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-22T01:27:22.929Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-22-a3zmj3g5zi1v.md",
+      "sourceUrl": "https://matters.town/a/a3zmj3g5zi1v",
+      "ipfsGateways": [
+        "https://QmWxZix3q91198X8L8hjFnRcZazN8hLiyt3Lphzf6VdAzC.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmWxZix3q91198X8L8hjFnRcZazN8hLiyt3Lphzf6VdAzC/",
+        "https://ipfs.io/ipfs/QmWxZix3q91198X8L8hjFnRcZazN8hLiyt3Lphzf6VdAzC/",
+        "https://QmWxZix3q91198X8L8hjFnRcZazN8hLiyt3Lphzf6VdAzC.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "part-1-财务转型需求及共享概念",
+      "title": "Part 1：财务转型需求及共享概念",
+      "shortHash": "thlylaird9lt",
+      "dataHash": "QmXCJ2L88Djt6HR2XQSdVaZK5eM8mpucEb5ZY9LUmbWyR6",
+      "mediaHash": "bafybeiedsusxp4hlmpywidefckmiwpfqqjogmneodurnyys7pbvyrkqnxu",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-21T15:28:28.670Z",
+      "tags": [
+        "财务共享",
+        "ERP"
+      ],
+      "file": "posts/2024-07-21-thlylaird9lt.md",
+      "sourceUrl": "https://matters.town/a/thlylaird9lt",
+      "ipfsGateways": [
+        "https://QmXCJ2L88Djt6HR2XQSdVaZK5eM8mpucEb5ZY9LUmbWyR6.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmXCJ2L88Djt6HR2XQSdVaZK5eM8mpucEb5ZY9LUmbWyR6/",
+        "https://ipfs.io/ipfs/QmXCJ2L88Djt6HR2XQSdVaZK5eM8mpucEb5ZY9LUmbWyR6/",
+        "https://QmXCJ2L88Djt6HR2XQSdVaZK5eM8mpucEb5ZY9LUmbWyR6.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "一个女孩的意外死亡-和由此开启的长达7个月的调查",
+      "title": "一个女孩的意外死亡，和由此开启的长达7个月的调查",
+      "shortHash": "3m1w0wdo6wrr",
+      "dataHash": "QmT7NDkr2jT2wUGNgjMNdnNyEpQenDftoZmj4zkcYB6GqB",
+      "mediaHash": "bafybeicg4m6xyvydbprfszxzeqs32c5x34gvtrzau5aahnymvhh67vlbby",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-20T06:54:31.439Z",
+      "tags": [
+        "高科技",
+        "健美"
+      ],
+      "file": "posts/2024-07-20-3m1w0wdo6wrr.md",
+      "sourceUrl": "https://matters.town/a/3m1w0wdo6wrr",
+      "ipfsGateways": [
+        "https://QmT7NDkr2jT2wUGNgjMNdnNyEpQenDftoZmj4zkcYB6GqB.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmT7NDkr2jT2wUGNgjMNdnNyEpQenDftoZmj4zkcYB6GqB/",
+        "https://ipfs.io/ipfs/QmT7NDkr2jT2wUGNgjMNdnNyEpQenDftoZmj4zkcYB6GqB/",
+        "https://QmT7NDkr2jT2wUGNgjMNdnNyEpQenDftoZmj4zkcYB6GqB.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "在windows-10下创建符号链接-symbolic-link",
+      "title": "在Windows 10下创建符号链接(Symbolic Link)",
+      "shortHash": "b7sjz0mmdf6d",
+      "dataHash": "QmfGga8LZrk1qQvjgC89FSW5xgZt4bwRaoxbuURB2YRJrH",
+      "mediaHash": "bafybeih3sj25uwjcwkvfytmlmtievlsgzqkh65xzw55ywr6xtm76ldvgly",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-15T09:39:30.726Z",
+      "tags": [],
+      "file": "posts/2024-07-15-b7sjz0mmdf6d.md",
+      "sourceUrl": "https://matters.town/a/b7sjz0mmdf6d",
+      "ipfsGateways": [
+        "https://QmfGga8LZrk1qQvjgC89FSW5xgZt4bwRaoxbuURB2YRJrH.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmfGga8LZrk1qQvjgC89FSW5xgZt4bwRaoxbuURB2YRJrH/",
+        "https://ipfs.io/ipfs/QmfGga8LZrk1qQvjgC89FSW5xgZt4bwRaoxbuURB2YRJrH/",
+        "https://QmfGga8LZrk1qQvjgC89FSW5xgZt4bwRaoxbuURB2YRJrH.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "为什么新加坡地铁里不允许喝水",
+      "title": "为什么新加坡地铁里不允许喝水？",
+      "shortHash": "oxsqswde4loz",
+      "dataHash": "QmcCrNAAhSFzc98bTxV7ZvYGhMVCh2ktuHSaFcch5VDAnQ",
+      "mediaHash": "bafybeigoaqtguvnaqwpovnvzcv54gcmixrbjt3famimqwdoc72xtib6dfu",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-07-15T02:57:17.674Z",
+      "tags": [
+        "為什麼"
+      ],
+      "file": "posts/2024-07-15-oxsqswde4loz.md",
+      "sourceUrl": "https://matters.town/a/oxsqswde4loz",
+      "ipfsGateways": [
+        "https://QmcCrNAAhSFzc98bTxV7ZvYGhMVCh2ktuHSaFcch5VDAnQ.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmcCrNAAhSFzc98bTxV7ZvYGhMVCh2ktuHSaFcch5VDAnQ/",
+        "https://ipfs.io/ipfs/QmcCrNAAhSFzc98bTxV7ZvYGhMVCh2ktuHSaFcch5VDAnQ/",
+        "https://QmcCrNAAhSFzc98bTxV7ZvYGhMVCh2ktuHSaFcch5VDAnQ.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "扩展程序-显示boss直聘岗位发布时间和hr最近的活跃度忽略僵尸岗",
+      "title": "[扩展程序] 显示BOSS直聘岗位发布时间和HR最近的活跃度忽略僵尸岗",
+      "shortHash": "f9ru2piiqov8",
+      "dataHash": "QmbHTV534hRxnCxAr4aC2qf53d9PZL51wqv9N6etkWRiSm",
+      "mediaHash": "bafybeigakz7orbsx5nyxfyimugkyknukkimhnjgs5i2gp5ykx3augigdji",
+      "iscnId": "iscn://likecoin-chain/nxn3FvRQZD6GemvYs0e1bCupPYvtSa7y8AKmy6uCJA0/1",
+      "state": "active",
+      "license": "cc_by_nc_nd_4",
+      "createdAt": "2024-05-06T13:32:40.198Z",
+      "tags": [
+        "boss直聘"
+      ],
+      "file": "posts/2024-05-06-f9ru2piiqov8.md",
+      "sourceUrl": "https://matters.town/a/f9ru2piiqov8",
+      "ipfsGateways": [
+        "https://QmbHTV534hRxnCxAr4aC2qf53d9PZL51wqv9N6etkWRiSm.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmbHTV534hRxnCxAr4aC2qf53d9PZL51wqv9N6etkWRiSm/",
+        "https://ipfs.io/ipfs/QmbHTV534hRxnCxAr4aC2qf53d9PZL51wqv9N6etkWRiSm/",
+        "https://QmbHTV534hRxnCxAr4aC2qf53d9PZL51wqv9N6etkWRiSm.ipfs.cf-ipfs.com/"
+      ]
+    },
+    {
+      "slug": "资深ai芯片芯片专家交流纪要",
+      "title": "资深AI芯片芯片专家交流纪要",
+      "shortHash": "gptomdzdwa3m",
+      "dataHash": "QmTFYTeyjX9tWB2sRH24wd9kW9fWd2sK2w3L5ZPi6ayArN",
+      "mediaHash": "bafybeici7n3pfykz6ursbivfwh347zmybnhakvyxzlv2k3kz2twoy73aum",
+      "iscnId": null,
+      "state": "active",
+      "license": "cc_by_nc_nd_2",
+      "createdAt": "2023-04-05T14:04:54.870Z",
+      "tags": [],
+      "file": "posts/2023-04-05-gptomdzdwa3m.md",
+      "sourceUrl": "https://matters.town/a/gptomdzdwa3m",
+      "ipfsGateways": [
+        "https://QmTFYTeyjX9tWB2sRH24wd9kW9fWd2sK2w3L5ZPi6ayArN.ipfs.dweb.link/",
+        "https://cloudflare-ipfs.com/ipfs/QmTFYTeyjX9tWB2sRH24wd9kW9fWd2sK2w3L5ZPi6ayArN/",
+        "https://ipfs.io/ipfs/QmTFYTeyjX9tWB2sRH24wd9kW9fWd2sK2w3L5ZPi6ayArN/",
+        "https://QmTFYTeyjX9tWB2sRH24wd9kW9fWd2sK2w3L5ZPi6ayArN.ipfs.cf-ipfs.com/"
+      ]
+    }
+  ],
+  "licenseNotice": {
+    "platformDefault": "cc_by_nc_nd_4",
+    "summary": "Matters 平台預設授權為 CC BY-NC-ND 4.0（姓名標示-非商業-禁衍生）。個別作者可採用 CC0 或 All Rights Reserved（arr），詳見每篇 license 欄位。本備份僅供使用者個人 archival 用途；轉載、衍生、商用前請先確認該篇授權。",
+    "perArticleAt": "articles[].license"
+  },
+  "archiveNote": "Filtered Matters export; README additionally links one user-provided Word article."
+}
