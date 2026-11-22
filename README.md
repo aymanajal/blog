@@ -2,7 +2,7 @@
 
 记录 ERP 实施、AI 应用、自动化和系统排障中的实践，也保存学习笔记、译文及阅读资料。
 
-[个人简历](https://github.com/aymanajal) · [原博客](https://matters.town/@windsdirecti) · [联系邮箱](mailto:wym15135582331@outlook.com)
+[阅读博客](https://aymanajal.github.io/blog/) · [个人简历](https://github.com/aymanajal) · [原博客](https://matters.town/@windsdirecti) · [联系邮箱](mailto:wym15135582331@outlook.com)
 
 ## 精选文章
 

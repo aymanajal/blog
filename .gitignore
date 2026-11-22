@@ -1,0 +1,6 @@
+website/node_modules/
+website/dist/
+website/.astro/
+website/public/pagefind/
+website/.env
+website/.env.*
